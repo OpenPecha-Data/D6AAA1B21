@@ -2,9 +2,9 @@ id: PC146E696
 initial_creation_type: ocr
 source_metadata:
   volumes:
-    5413efada10146f2b96c5079c78ae440:
-      base_file: v005.txt
-      image_group_id: I1PD95850
+    ceeb2df55e6f43698c746304f0c61e36:
+      base_file: v042.txt
+      image_group_id: I1PD95887
       title: བདག་མེད་མ་ལྷ་མོ་བཅོ་ལྔ་ལ་བསྟོད་པ།
-      total_pages: 2069
-      volume_number: 5
+      total_pages: 1712
+      volume_number: 42
